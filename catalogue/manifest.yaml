@@ -46,7 +46,7 @@ spec:
   selector:
     app: catalogue
     project: roboshop
-    tier: db
+    tier: app
   ports:
   - protocol: TCP
     port: 8080
