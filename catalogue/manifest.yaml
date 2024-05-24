@@ -20,7 +20,7 @@ spec:
   selector:
     matchLabels:
       app: catalogue
-      project: robsohop
+      project: roboshop
       tier: app
   template:
     metadata:
